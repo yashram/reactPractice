@@ -3,7 +3,7 @@ import jsxImage from "./assets/jsx-ui.png";
 import propImage from "./assets/config.png";
 import stateImage from "./assets/state-mgmt.png";
 
-export const CoreConcepts = [
+export const CORECONCEPTS = [
     {
         title : "Components",
         description : "The Core UI Building Block- compose the user interface by combining multiple componets.",
